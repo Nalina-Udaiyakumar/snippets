@@ -1,5 +1,4 @@
-# Casual
-Place for my casual projects
+# Code snippets
 
 
-These are all my petty scripts in Python and R
+These are short scripts in Python and R to fit various model on prepped data
